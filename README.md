@@ -8,10 +8,10 @@ Cada archivo aborda un concepto específico del lenguaje y muestra la evolución
 
 ## 📂 Informacion Personal
 
-Alumno: Eudaldo Alejandro Ahumada Vizcarra
-Grupo: ITTID - 4
-Maestro: Luis Gerardo Aguirre Cervantes
-Materia: Desarollo Moviles
+-**Alumno:** Eudaldo Alejandro Ahumada Vizcarra  
+-**Grupo:** ITTID - 4  
+-**Maestro:** Luis Gerardo Aguirre Cervantes   
+-**Materia:** Desarollo Moviles  
 
 ---
 
